@@ -172,7 +172,7 @@ The Power BI `.pbix` file is hosted on Google Drive because of GitHub's individu
 
 ### Download Power BI Dashboard
 
-👉 **[Download Logistics & Supply Chain Dashboard (.pbix)](YOUR_GOOGLE_DRIVE_LINK)**
+👉 **[Download Logistics & Supply Chain Dashboard (.pbix)](https://drive.google.com/file/d/12n8q2S8Mf-INQN8IBgBnjVXDUDVxHpI6/view?usp=drive_link)**
 
 ### Steps to Run
 
