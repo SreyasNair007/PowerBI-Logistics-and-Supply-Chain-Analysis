@@ -4,7 +4,13 @@ An interactive **Power BI dashboard** designed to analyze delivery performance, 
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](screenshots/home.png)
+![Home Dashboard](Screenshots/home_01.png)
+
+![Overview Dashboard](Screenshots/overview_02.png)
+
+![Domestic Analysis](Screenshots/domestic.png)
+
+![International Analysis](Screenshots/international_04.png)
 
 ---
 
@@ -51,8 +57,6 @@ This dashboard addresses the following business questions:
 - **File:** `DataCoSupplyChainDataset.csv`
 - **Coverage:** Orders, customers, products, shipping, delivery status, sales, and profit.
 - **Source:** DataCo Supply Chain Dataset.
-
-Dataset source: [Add your Kaggle dataset link]
 
 ## 🛠️ Tools & Technologies
 
@@ -122,15 +126,6 @@ The dashboard consists of **four interactive pages** with button-based navigatio
 
 **Note:** Domestic and International categories in this project are defined by shipping modes, not by a US versus non-US geographical split.
 
-### Dashboard Screenshots
-
-| Home Page | Overview |
-|---|---|
-| ![Home](screenshots/home.png) | ![Overview](screenshots/overview.png) |
-
-| Domestic Analysis | International Analysis |
-|---|---|
-| ![Domestic](screenshots/domestic.png) | ![International](screenshots/international.png) |
 
 ## 📈 Key Metrics (DAX Measures)
 
@@ -170,7 +165,6 @@ The dashboard helps identify:
 - Regional and market-level business performance.
 - Opportunities to improve logistics efficiency.
 
-*Add specific numerical findings and recommendations based on your actual dashboard results.*
 
 ## 📥 How to Access the Project
 
@@ -214,9 +208,3 @@ B.Tech Graduate in Artificial Intelligence and Data Science
 Jyothi Engineering College  
 Thrissur, Kerala, India
 
-- **GitHub:** [SreyasNair007](https://github.com/SreyasNair007)
-- **LinkedIn:** [Sreyas T](https://linkedin.com/in/sreyast0706)
-
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
